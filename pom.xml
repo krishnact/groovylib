@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.krishnact</groupId>
 	<artifactId>groovylib</artifactId>
-	<version>1.0.0</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>Groovy Lib Base</name>
 	<description>A POM file for Groovy libraries. This pom file needs to be installed by executing mvn -f groovy-lib-base.pom.xml install</description>
 	<repositories>
